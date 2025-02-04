@@ -13,7 +13,7 @@ class copy_to_anotherArray{
         for(int i=0;i<arr.length;i++){
             arr1[i]=arr[i];
         }
-
+ //jhhftytf
 
         System.out.println();
 
